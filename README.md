@@ -12,4 +12,17 @@
 - Geometry
   - Shape
 - Material
-  - texture
+  - Texture
+- Renderer
+  - Which draws everything on display (what camera shows)
+- axis X
+  - right(positive number)
+  - left(negative number)
+- axis Y
+  - Following rule is only for three.js
+  - top (positive)
+  - bottom (negative)
+- axis Z
+  - depths
+  - zoom in (positive)
+  - zoom out (negative)
